@@ -1,0 +1,38 @@
+order_id,customer_id,order_date,status,total_amount,notes
+1,1,2025-01-05 00:00:00+01,paid,8200.00,Laptop order
+2,2,2025-01-10 00:00:00+01,paid,580.00,Phone + headphones
+3,1,2025-02-01 00:00:00+01,paid,540.00,Phone + keyboard
+4,3,2025-02-15 00:00:00+01,paid,300.00,Monitor
+5,4,2025-03-01 00:00:00+01,pending,80.00,Headphones pre-order
+6,6,2024-12-25 00:00:00+01,cancelled,0.00,Christmas test
+7,5,2025-01-20 00:00:00+01,shipped,940.00,Office chair
+8,2,2025-02-28 00:00:00+01,paid,150.00,Gaming mouse
+9,14,2025-03-10 00:00:00+01,pending,1200.00,Laptop pre-order
+10,17,2025-03-15 00:00:00+01,paid,690.00,4K TV + speaker
+11,9,2025-03-20 00:00:00+01,shipped,400.00,Smartphone X
+12,10,2025-03-25 00:00:00+01,paid,300.00,Headphones 2
+13,11,2025-03-30 00:00:00+01,pending,1500.00,Office chair
+14,12,2025-04-05 00:00:00+01,paid,120.00,Winter Jacket
+15,13,2025-04-10 00:00:00+01,shipped,800.00,4K TV
+16,14,2025-04-28 00:00:00+01,paid,70.00,Gaming Mouse
+17,15,2025-05-02 00:00:00+01,pending,150.00,Bluetooth Speaker
+18,16,2025-05-10 00:00:00+01,paid,4200.00,Laptop Pro
+19,14,2025-05-15 00:00:00+01,shipped,500.00,Smartphone X
+20,18,2025-05-20 00:00:00+01,paid,300.00,Headphones 2
+21,19,2025-06-01 00:00:00+01,pending,350.00,Mechanical Keyboard
+22,20,2025-06-10 00:00:00+01,paid,1500.00,Office Chair
+23,20,2025-06-15 00:00:00+01,shipped,800.00,4K TV
+24,22,2025-06-20 00:00:00+01,paid,120.00,Winter Jacket
+25,23,2025-07-01 00:00:00+01,pending,100.00,External Hard Drive
+26,24,2025-07-10 00:00:00+01,paid,250.00,Smartwatch Z
+27,25,2025-07-15 00:00:00+01,shipped,45.00,Desk Lamp
+28,26,2025-07-20 00:00:00+01,paid,200.00,Noise-Cancelling Earbuds
+29,27,2025-08-01 00:00:00+01,pending,180.00,Smart Home Hub
+30,23,2025-08-10 00:00:00+01,paid,300.00,4K Monitor
+31,23,2025-08-15 00:00:00+01,shipped,350.00,Graphic Tablet
+32,30,2025-08-20 00:00:00+01,paid,400.00,Portable Projector
+33,31,2025-09-01 00:00:00+01,pending,9200.00,Laptop Pro
+34,32,2025-09-10 00:00:00+01,paid,3500.00,Smartphone X
+35,33,2025-09-15 00:00:00+01,shipped,800.00,4K TV
+36,31,2025-09-20 00:00:00+01,paid,150.00,Bluetooth Speaker
+37,25,2025-10-01 00:00:00+01,pending,120.00,Winter Jacket

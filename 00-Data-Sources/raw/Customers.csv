@@ -1,0 +1,36 @@
+customer_id,customer_name,customer_email,country,created_at
+1,Amy,amy2@gmail,Kenya,2024-01-14 00:00:00+01
+2,Jules,julesheir@gmail,Nairaobi,2024-10-04 00:00:00+01
+3,Ada,adahottest10@gmail,Nigeria,2024-11-18 00:00:00+01
+5,Andy,,,2024-03-14 00:00:00+01
+6,Josef,,Rwanda,2025-05-16 00:00:00+01
+7,James,bigjames@mail,,2024-01-14 00:00:00+01
+8,Chidi,chuks@gmail.com,Nigeria,2025-06-30 00:00:00+01
+4,John,johnnyblaze@yahoo,Ghana,2024-01-22 00:00:00+01
+9,Kofi,kofi2@mail,Ghana,2024-07-19 00:00:00+01
+10,Lily,lilyrose@yahoo,Kenya,2024-08-25 00:00:00+01
+11,Mia,mia2024@gmail,Nigeria,2024-09-10 00:00:00+01
+12,Noah,noahking@mail,Singapore,2024-10-05 00:00:00+01
+13,Olivia,oliviabest@yahoo,Ghana,2024-11-11 00:00:00+01
+14,Paul,paulie@gmail,USA,2024-12-01 00:00:00+01
+15,Quincy,quincyq@mail,Canada,2025-01-20 00:00:00+01
+16,Rita,ritabest@yahoo,UK,2025-02-14 00:00:00+01
+17,Sam,,Australia,2025-03-03 00:00:00+01
+18,Tina,tinapower@mail,South Africa,2025-04-22 00:00:00+01
+19,Uma,umaking@yahoo,India,2025-05-30 00:00:00+01
+20,Vera,veravibes@gmail,China,2025-06-15 00:00:00+01
+21,Wale,walechamp@mail,Nigeria,2025-07-07 00:00:00+01
+22,Xena,xenastar@yahoo,Ghana,2025-08-19 00:00:00+01
+23,Yara,yaralove@gmail,Kenya,2025-09-09 00:00:00+01
+24,Zack,,USA,2025-10-31 00:00:00+01
+25,Ben,benjamin@yahoo,,2025-11-25 00:00:00+01
+26,Cathy,cathygirl@gmail,Canada,2025-12-12 00:00:00+01
+27,Derek,derekpower@mail,Australia,2025-01-18 00:00:00+01
+28,Eva,evastar@yahoo,India,2025-02-22 00:00:00+01
+29,Frank,frankie@gmail,China,2025-03-30 00:00:00+01
+30,Gina,ginaisgood@mail,South Africa,2025-04-14 00:00:00+01
+31,Hank,hankthetank@yahoo,USA,2025-05-05 00:00:00+01
+32,Ivy,ivygirl@gmail,Canada,2025-06-21 00:00:00+01
+33,Jack,,Australia,2025-07-11 00:00:00+01
+34,Kara,karakool@mail,India,2025-08-29 00:00:00+01
+35,Liam,,,2025-09-17 00:00:00+01

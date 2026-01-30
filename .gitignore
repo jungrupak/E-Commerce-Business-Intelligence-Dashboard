@@ -1,0 +1,90 @@
+# Tableau Files
+*.twb~
+*.twbx~
+.DS_Store
+
+# Tableau Temp Files
+Tableau Temp
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# PostgreSQL
+*.log
+*.sql~
+
+# Sensitive Data (if accidentally added)
+*.credentials
+.env
+secrets.yml
+
+# Large Files
+*.hyper
+*.tde
+*.tds
+*.tdsx
+
+# OS generated
+*.pid
+*.seed
+*.cover
+
+# Temporary files
+*~
+.cache/
+tmp/
+temp/
+*.tmp
+
+
+# Interview Prep & Private Materials (DO NOT COMMIT)
+interview-prep/
+PRIVATE-*.md
+interview-guide.md
+leverage-your-insights.md
+behavioral-interview-guide.md
+technical-interview-answers.md
+quick-reference-cheat-sheet.md
+company-specific-*.md
+job-applications/
+cover-letters/
+resume-drafts/
+*.credentials
+.env
+secrets.yml

@@ -1,0 +1,22 @@
+product_id,sku,product_name,category_id,price,tags,specs,version
+1,SKU-001,Laptop Pro,1,4200.00,"{laptop,pro,work}","{'"ram_gb'": 16, '"weight_g'": 2000}",1
+2,SKU-002,Smartphone X,2,500.00,"{phone,mobile}","{'"screen_in'": 6.1, '"battery_mah'": 3000}",1
+3,SKU-003,Headphones 2,3,300.00,"{audio,headphones}","{'"wireless'": true, '"noise_cancel'": false}",1
+4,SKU-004,Mechanical Keyboard,4,40.00,"{keyboard,peripheral}","{'"layout'": '"uk'", '"switch'": '"blue'"}",1
+5,SKU-005,Unordered Item,5,1199.00,{new},"{'"sample'": true}",1
+6,SKU-006,Office Chair,6,1500.00,"{furniture,office}","{'"wheels'": true, '"material'": '"leather'"}",1
+7,SKU-007,4K TV,7,800.00,"{tv,4k}","{'"size_in'": 55, '"smart_tv'": true}",1
+8,SKU-008,Winter Jacket,8,120.00,"{clothing,jacket}","{'"size'": '"L'", '"waterproof'": true}",1
+9,SKU-009,Gaming Mouse,5,70.00,"{gaming,mouse}","{'"dpi'": 16000, '"wired'": false}",1
+10,SKU-010,Bluetooth Speaker,3,150.00,"{audio,speaker}","{'"battery_mah'": 5000, '"water_resistant'": true}",1
+11,SKU-011,Smartwatch Z,2,250.00,"{wearable,smartwatch}","{'"screen_in'": 1.5, '"heart_rate_monitor'": true}",1
+12,SKU-012,Desk Lamp,4,45.00,"{lighting,lamp}","{'"led'": true, '"adjustable_brightness'": true}",1
+13,SKU-013,External Hard Drive,1,100.00,"{storage,hard_drive}","{'"usb_type'": '"c'", '"capacity_gb'": 2000}",1
+14,SKU-014,Fitness Tracker,2,80.00,"{wearable,fitness}","{'"gps'": true, '"water_resistant'": true}",1
+15,SKU-015,E-reader,1,120.00,"{reading,ebook}","{'"backlight'": true, '"screen_in'": 6}",1
+16,SKU-016,Noise-Cancelling Earbuds,3,200.00,"{audio,earbuds}","{'"wireless'": true, '"noise_cancel'": true}",1
+17,SKU-017,Smart Home Hub,7,180.00,"{smart_home,hub}","{'"wifi_enabled'": true, '"voice_control'": true}",1
+18,SKU-018,4K Monitor,1,300.00,"{monitor,4k}","{'"size_in'": 27, '"refresh_rate_hz'": 144}",1
+19,SKU-019,Graphic Tablet,1,350.00,"{tablet,graphic}","{'"size_in'": 10, '"pressure_levels'": 8192}",1
+20,SKU-020,Portable Projector,7,400.00,"{projector,portable}","{'"resolution'": '"1080p'", '"battery_life_min'": 120}",1
+21,SKU-XYZ,New Product,8,150.00,,,1
