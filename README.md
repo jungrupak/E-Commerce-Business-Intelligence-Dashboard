@@ -257,7 +257,7 @@ Comprehensive documentation covering every aspect of the project:
 - **GitHub:** [@LennySHumphrey](https://github.com/LennySHumphrey)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lenny-humphrey-73217b339/)
 
----/
+---
 
 ## 📝 License
 
@@ -278,8 +278,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Questions about this project? Want to discuss analytics?
 
 - **Email:** humphreysuccess4@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/lenny-humphrey-73217b339/]
-- **Tableau Public:** [https://public.tableau.com/app/profile/lenny.success.humphrey/vizzes]
+- **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/lenny-humphrey-73217b339/)
+- **Tableau Public:** [Visit My Tableau Public Profile](https://public.tableau.com/app/profile/lenny.success.humphrey/vizzes)
 
 ---
 
