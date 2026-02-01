@@ -280,7 +280,7 @@ Questions about this project? Want to discuss analytics?
 - **Email:** humphreysuccess4@gmail.com
 - **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/lenny-humphrey-73217b339/)
 - **Tableau Public:** [Visit My Tableau Public Profile](https://public.tableau.com/app/profile/lenny.success.humphrey/vizzes)
-- **Portfolio:**[Visit My Portfolio](https://lennyshumphrey.github.io/)
+- **Portfolio:** [Visit My Portfolio](https://lennyshumphrey.github.io/)
 
 ---
 
